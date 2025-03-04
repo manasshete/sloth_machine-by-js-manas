@@ -1,1 +1,1 @@
-# sloth_machine-by-js-manas
+# slothmachine-by-js-manas
